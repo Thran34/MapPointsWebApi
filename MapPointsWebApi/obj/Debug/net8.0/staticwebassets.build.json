@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q9o6jPuLIaKXfAtDrqHkGGLEBnv1N0N03UzUtryT6hE=",
+  "Source": "MapPointsWebApi",
+  "BasePath": "_content/MapPointsWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
