@@ -31,3 +31,4 @@
 /Users/andrzejjasinski/RiderProjects/MapPointsWebApi/MapPointsWebApi/obj/Debug/net8.0/MapPointsWebApi.pdb
 /Users/andrzejjasinski/RiderProjects/MapPointsWebApi/MapPointsWebApi/obj/Debug/net8.0/MapPointsWebApi.genruntimeconfig.cache
 /Users/andrzejjasinski/RiderProjects/MapPointsWebApi/MapPointsWebApi/obj/Debug/net8.0/ref/MapPointsWebApi.dll
+/Users/andrzejjasinski/RiderProjects/MapPointsWebApi/MapPointsWebApi/obj/Debug/net8.0/MapPointsWebApi.sourcelink.json

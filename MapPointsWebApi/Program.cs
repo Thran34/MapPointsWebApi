@@ -13,7 +13,7 @@ public class Program
         {
             options.AddPolicy("AllowSpecificOrigin",
                 corsBuilder => corsBuilder
-                    .WithOrigins("http://localhost:8000") // Your frontend origin
+                    .WithOrigins("http://localhost:8100") // Your frontend origin
                     .AllowAnyHeader()
                     .AllowAnyMethod());
         });

@@ -1,7 +1,15 @@
 namespace MapPointsWebApi;
 
-public class Point(int x, int y)
+public class Point
 {
-    public int X { get; set; } = x;
-    public int Y { get; set; } = y;
+    public Point(double lat, double lng, Question question)
+    {
+        Latitude = lat;
+        Longitude = lng;
+        Question = question;
+    }
+
+    public double Latitude { get; set; }
+    public double Longitude { get; set; }
+    public Question Question { get; set; }
 }
